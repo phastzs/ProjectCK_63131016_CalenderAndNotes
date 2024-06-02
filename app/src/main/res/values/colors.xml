@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <!-- Màu chính và màu bổ sung -->
+    <color name="colorPrimary">#2196F3</color> <!-- Blue 500 -->
+    <color name="colorPrimaryDark">#1976D2</color> <!-- Blue 700 -->
+    <color name="colorAccent">#03A9F4</color> <!-- Light Blue 400 -->
+    <color name="colorBackground">#FFFFFF</color> <!-- White -->
+
+    <!-- Màu văn bản và các thành phần khác -->
+    <color name="colorTextPrimary">#212121</color> <!-- Dark Gray -->
+    <color name="colorTextSecondary">#757575</color> <!-- Gray -->
+    <color name="colorOnPrimary">#FFFFFF</color> <!-- White -->
+    <color name="colorOnSecondary">#000000</color> <!-- Black -->
 </resources>
